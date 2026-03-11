@@ -1,4 +1,3 @@
-# project1
-Purpose: Helps employees quickly find information from company documents like SOPs and policies.  
-Solution: Uses Retrieval-Augmented Generation (RAG) to retrieve relevant content from documents and generate accurate answers.  
-Keywords: RAG, Enterprise Knowledge Assistant, Document Retrieval, Vector Database, Semantic Search, LangChain, Pinecone.
+Enterprise Knowledge RAG-Based SOP Assistant
+Enterprise Knowledge RAG-Based SOP Assistant:
+An AI-powered system that helps employees quickly retrieve information from internal company documents such as SOPs and policies. It uses Retrieval-Augmented Generation (RAG) to search documents, retrieve relevant content, and generate accurate, context-based answers using technologies like LangChain, Pinecone, and semantic search.
